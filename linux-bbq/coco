@@ -1,0 +1,24 @@
+! dkeg 2014
+! coco 
+
+URxvt.background: #0a0909
+URxvt.foreground: #abacae
+!*cursorColor: #8c2a1f
+URxvt.cursorColor: #35312f
+
+URxvt.color0: #332d29
+URxvt.color1: #7c423a
+URxvt.color2: #8d7138
+URxvt.color3: #856237
+URxvt.color4: #3c3c49
+URxvt.color5: #3c342e
+URxvt.color6: #5d5a4b
+URxvt.color7: #d6c7b8
+URxvt.color8: #332d29
+URxvt.color9: #7c423a
+URxvt.color10: #8d7138
+URxvt.color11: #856237
+URxvt.color12: #3c3c49
+URxvt.color13: #3c342e
+URxvt.color14: #5d5a4b
+URxvt.color15: #d6c7b8

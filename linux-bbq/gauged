@@ -1,0 +1,23 @@
+! dkeg 2013,2014 !
+  
+!!!! gauged !!!!
+
+URxvt.background:#170f0d
+URxvt.foreground:#746c48
+
+URxvt.color0: #332863
+URxvt.color1: #3C4573
+URxvt.color2: #414E83
+URxvt.color3: #54346C
+URxvt.color4: #5A6A87
+URxvt.color5: #684D75
+URxvt.color6: #6D9093
+URxvt.color7: #78837B
+URxvt.color8: #995C77
+URxvt.color9: #A17284
+URxvt.color10: #A1AA98
+URxvt.color11: #B25D76
+URxvt.color12: #B9C3A1
+URxvt.color13: #C3977A
+URxvt.color14: #D6AA89
+URxvt.color15: #EEDCAF

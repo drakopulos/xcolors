@@ -1,0 +1,25 @@
+! dkeg 2013,2014 !
+  
+!!!! redphoenix !!!!
+
+URxvt.background:#1a1a1a
+URxvt.foreground:#d3d3d3
+!*background:#000000
+
+URxvt.color0: #131313
+URxvt.color1: #2D2D2D
+URxvt.color2: #4C3A3D
+URxvt.color3: #4E4E4E
+URxvt.color4: #6F6F6F
+URxvt.color5: #909090
+URxvt.color6: #AAA998
+URxvt.color7: #B1B1B1
+URxvt.color8: #D1D1D1
+URxvt.color9: #D2C3AD
+URxvt.color10: #DF9767
+URxvt.color11: #E1E1E1
+URxvt.color12: #EDEDED
+URxvt.color13: #ED4B19
+URxvt.color14: #F2361E
+URxvt.color15: #FA390F
+

@@ -1,0 +1,21 @@
+! greens !! pidsley 2014
+
+URxvt.background:       #000000
+URxvt.foreground:       #a3d5b6
+
+URxvt.color0: #010301
+URxvt.color1: #0B2A15
+URxvt.color2: #133525
+URxvt.color3: #134C2E
+URxvt.color4: #1B592A
+URxvt.color5: #27352A
+URxvt.color6: #2B4D35
+URxvt.color7: #2C664C
+URxvt.color8: #3D9E67
+URxvt.color9: #404F3E
+URxvt.color10: #4E6B57
+URxvt.color11: #59976D
+URxvt.color12: #63AC8C
+URxvt.color13: #64CE9D
+URxvt.color14: #80987F
+URxvt.color15: #A3D5B6

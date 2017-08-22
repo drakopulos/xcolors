@@ -1,0 +1,26 @@
+!!!! bluemoss by elixir !!!!
+
+URxvt.background:    #2E5C8A
+URxvt.foreground:    #A3CCCC
+
+!*transparent:   0
+!*shading:       70
+!*fading:        10
+!*fadeColor:     #2E5C8A
+
+URxvt.color0: #001931
+URxvt.color1: #193046
+URxvt.color2: #304558
+URxvt.color3: #1A334C
+URxvt.color4: #31475E
+URxvt.color5: #003333
+URxvt.color6: #194747
+URxvt.color7: #334C4C
+URxvt.color8: #475E5E
+URxvt.color9: #1A4C33
+URxvt.color10: #315E47
+URxvt.color11: #003D00
+URxvt.color12: #195019
+URxvt.color13: #477347
+URxvt.color14: #477347
+URxvt.color15: #7DAD4C

@@ -1,0 +1,23 @@
+! dkeg 2014 !
+
+!!!! bog (beige,orange,green) !!!!
+
+URxvt.background: #1f1b18
+URxvt.foreground: #b9ae9e
+
+URxvt.color0: #323318
+URxvt.color1: #363C21
+URxvt.color2: #524D23
+URxvt.color3: #56562F
+URxvt.color4: #563B12
+URxvt.color5: #616044
+URxvt.color6: #68673C
+URxvt.color7: #767446
+URxvt.color8: #7C835A
+URxvt.color9: #906942
+URxvt.color10: #928D6B
+URxvt.color11: #948F6C
+URxvt.color12: #AEA888
+URxvt.color13: #C08155
+URxvt.color14: #D63101
+URxvt.color15: #E42800

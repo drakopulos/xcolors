@@ -1,0 +1,23 @@
+! dkeg 2013,2014 !
+  
+!!!! pidgeon !!!!
+
+URxvt.background:       #000000
+URxvt.foreground:       #999999
+
+URxvt.color0: #181B25
+URxvt.color1: #283646
+URxvt.color2: #2C2A30
+URxvt.color3: #354C4E
+URxvt.color4: #45443C
+URxvt.color5: #5A6557
+URxvt.color6: #758572
+URxvt.color7: #837D72
+URxvt.color8: #938D6C
+URxvt.color9: #A8B199
+URxvt.color10: #B7C39C
+URxvt.color11: #BBC5AB
+URxvt.color12: #C8CDB3
+URxvt.color13: #D39A74
+URxvt.color14: #D6D2B8
+URxvt.color15: #DFD6AF

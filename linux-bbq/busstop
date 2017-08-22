@@ -1,0 +1,23 @@
+! dkeg 2014
+
+!!!! busstop !!!!
+
+URxvt.background:#0f0e0f
+URxvt.foreground:#d3d3d3
+
+URxvt.color0: #120A10
+URxvt.color1: #1D1724
+URxvt.color2: #201820
+URxvt.color3: #221B28
+URxvt.color4: #282A35
+URxvt.color5: #313944
+URxvt.color6: #39484F
+URxvt.color7: #3D5761
+URxvt.color8: #463F3A
+URxvt.color9: #475558
+URxvt.color10: #5C6C69
+URxvt.color11: #76857A
+URxvt.color12: #958A76
+URxvt.color13: #9FA594
+URxvt.color14: #CFCAB0
+URxvt.color15: #F3EDDC

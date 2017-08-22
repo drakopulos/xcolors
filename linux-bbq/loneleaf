@@ -1,0 +1,23 @@
+! dkeg 2013,2014 !
+  
+!!!! loneleaf !!!!
+
+URxvt.background:#170f0d
+URxvt.foreground:#746c48
+
+URxvt.color0: #221B25
+URxvt.color1: #2C2A35
+URxvt.color2: #323546
+URxvt.color3: #453D43
+URxvt.color4: #547787
+URxvt.color5: #5D5455
+URxvt.color6: #6E8F93
+URxvt.color7: #6F7570
+URxvt.color8: #79847A
+URxvt.color9: #8E8979
+URxvt.color10: #8E6E60
+URxvt.color11: #8F9485
+URxvt.color12: #90543F
+URxvt.color13: #A5A894
+URxvt.color14: #C69B79
+URxvt.color15: #D2B897

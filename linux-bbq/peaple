@@ -1,0 +1,23 @@
+!! Alad 2014
+
+!!! peaple !!!
+
+URxvt.background: #000000
+URxvt.foreground: #ffffff
+
+URxvt.color0: #010414
+URxvt.color1: #060C2E
+URxvt.color2: #0D2738
+URxvt.color3: #1D235A
+URxvt.color4: #284D72
+URxvt.color5: #36608A
+URxvt.color6: #48827E
+URxvt.color7: #493177
+URxvt.color8: #584199
+URxvt.color9: #5D629C
+URxvt.color10: #618FAE
+URxvt.color11: #769CCC
+URxvt.color12: #8F69AF
+URxvt.color13: #9375CD
+URxvt.color14: #9E9CDD
+URxvt.color15: #AEAEDB

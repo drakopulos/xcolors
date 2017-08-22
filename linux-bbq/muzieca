@@ -1,0 +1,33 @@
+! muzieca 2012
+! slightly modified by pidsley 2013-2014
+! original is here: http://crunchbang.org/forums/viewtopic.php?pid=212283#p212283
+
+!*background:       #000000
+!*foreground:       #EEEEEE
+
+!black
+URxvt.color0:    #000000
+URxvt.color8:    #888888
+!red
+URxvt.color1:    #CC5555
+URxvt.color9:    #FF8888
+!green
+URxvt.color2:    #66BB88
+URxvt.color10:   #99EEBB
+!yellow
+URxvt.color3:    #CC8855
+URxvt.color11:   #FFBB88
+!blue
+URxvt.color4:    #6688BB
+URxvt.color12:   #99BBEE
+!magenta
+URxvt.color5:    #CC5588
+URxvt.color13:   #FF88BB
+!cyan
+URxvt.color6:    #66BBBB
+URxvt.color14:   #99EEEE
+!white
+URxvt.color7:    #BBBBBB
+URxvt.color15:   #EEEEEE
+
+

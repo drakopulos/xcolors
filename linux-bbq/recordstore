@@ -1,0 +1,23 @@
+! dkeg 2013,2014 !
+  
+!!!! recordstore !!!!
+
+URxvt.background:       #170F0D
+URxvt.foreground:       #746C48
+
+URxvt.color0: #2E1D16
+URxvt.color1: #373231
+URxvt.color2: #583631
+URxvt.color3: #6E4B47
+URxvt.color4: #744438
+URxvt.color5: #8E4D3A
+URxvt.color6: #917789
+URxvt.color7: #A46650
+URxvt.color8: #B56851
+URxvt.color9: #B7A993
+URxvt.color10: #B88A6E
+URxvt.color11: #CC956F
+URxvt.color12: #D5AF98
+URxvt.color13: #E0C8B4
+URxvt.color14: #EADACE
+URxvt.color15: #FBF8F6

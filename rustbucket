@@ -1,0 +1,60 @@
+! rustbucket
+
+URxvt.foreground:   #dddcbb
+URxvt.background:   #1b1911
+URxvt.cursorColor:  #dddcbb
+
+! black
+URxvt.color0:       #8c4325
+URxvt.color8:       #8c3e1e
+! red
+URxvt.color1:       #8c7a25
+URxvt.color9:       #8c791e
+! green
+URxvt.color2:       #8c6525
+URxvt.color10:      #8c621d
+! yellow
+URxvt.color3:       #c4ae5b
+URxvt.color11:      #c4ad54
+! blue
+URxvt.color4:       #45402c
+URxvt.color12:      #977856
+! magenta
+URxvt.color5:       #c4935b
+URxvt.color13:      #c4935b
+! cyan
+URxvt.color6:       #b9b57a
+URxvt.color14:      #dbab60
+! white
+URxvt.color7:       #c6c5a7
+URxvt.color15:      #dddcbb
+
+! railroad xcolor 
+*foreground:   #dddcbb
+*background:   #1b1911
+*cursorColor:  #dddcbb
+
+! black
+*color0:       #8c4325
+*color8:       #8c3e1e
+! red
+*color1:       #8c7a25
+*color9:       #8c791e
+! green
+*color2:       #8c6525
+*color10:      #8c621d
+! yellow
+*color3:       #c4ae5b
+*color11:      #c4ad54
+! blue
+*color4:       #45402c
+*color12:      #977856
+! magenta
+*color5:       #c4935b
+*color13:      #c4935b
+! cyan
+*color6:       #b9b57a
+*color14:      #dbab60
+! white
+*color7:       #c6c5a7
+*color15:      #dddcbb

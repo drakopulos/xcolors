@@ -1,0 +1,23 @@
+! dkeg 2013,2014 !
+
+!!!! bloatImproved !!!!
+
+URxvt.background: #1a1a1a
+URxvt.foreground: #d3d3d3
+
+URxvt.color0:     #000000
+URxvt.color1:	 #d7d7d7
+URxvt.color2:     #A6BBA7
+URxvt.color3:     #345C2D
+URxvt.color4:	 #7d7875
+URxvt.color5:     #969696
+URxvt.color6:     #83ACA7
+URxvt.color7:     #444444
+URxvt.color8:	 #537391
+URxvt.color9:     #d7d7d7 
+URxvt.color10:    #B0D1AF
+URxvt.color11:    #fff796
+URxvt.color12:    #7d7875
+URxvt.color13:    #a46268
+URxvt.color14:    #B0CFCF
+URxvt.color15:    #444444

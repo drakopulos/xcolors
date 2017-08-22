@@ -1,0 +1,21 @@
+!!! platine
+
+URxvt.background: #000000
+URxvt.foreground: #f9f9f9
+
+URxvt.color0: #031F20
+URxvt.color1: #030707
+URxvt.color2: #042E2F
+URxvt.color3: #07C7CA
+URxvt.color4: #084E4F
+URxvt.color5: #093C3D
+URxvt.color6: #0B6F71
+URxvt.color7: #0BACAE
+URxvt.color8: #0C8E90
+URxvt.color9: #0C7E81
+URxvt.color10: #0DBDC0
+URxvt.color11: #14807F
+URxvt.color12: #1A696A
+URxvt.color13: #1CC9CB
+URxvt.color14: #229E9F
+URxvt.color15: #f9f9f9

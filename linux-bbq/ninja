@@ -1,0 +1,29 @@
+! dkeg 2013,2014 !
+  
+!!!! ninja !!!!
+
+
+!! light on dark
+!*background: #cdcdbb
+!*foreground: #2a251f
+
+!! dark on light
+URxvt.background: #1a1a1a
+URxvt.foreground: #d3d3d3
+
+URxvt.color0:  #333333
+URxvt.color1:  #4f2517
+URxvt.color2:  #667350
+URxvt.color3:  #8d7041
+URxvt.color4:  #384555
+URxvt.color5:  #2e231c
+URxvt.color6:  #6a5e44
+URxvt.color7:  #c6c2ab
+URxvt.color8:  #444444
+URxvt.color9:  #704033 
+URxvt.color10: #8b9d6e
+URxvt.color11: #d3a876
+URxvt.color12: #607985
+URxvt.color13: #755947
+URxvt.color14: #96988f
+URxvt.color15: #f2eed1

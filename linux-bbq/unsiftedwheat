@@ -1,0 +1,24 @@
+! dkeg 2013,2014 !
+  
+!!!! unsiftedwheat !!!!
+
+URxvt.background: #170F0D
+URxvt.foreground: #746C48
+
+URxvt.color0: #382C2F
+URxvt.color1: #48393A
+URxvt.color2: #65534D
+URxvt.color3: #79665A
+URxvt.color4: #836E5E
+URxvt.color5: #8E7766
+URxvt.color6: #917781
+URxvt.color7: #9A846D
+URxvt.color8: #AC9377
+URxvt.color9: #BAA17E
+URxvt.color10: #BCA282
+URxvt.color11: #C1A67E
+URxvt.color12: #CFB48E
+URxvt.color13: #D1BAA3
+URxvt.color14: #DFC39B
+URxvt.color15: #EED8C4
+

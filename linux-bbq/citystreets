@@ -1,0 +1,23 @@
+! dkeg 2013,2014 !
+  
+!!!! citystreets !!!!
+
+URxvt.background:#000000
+URxvt.foreground:#d3d3d3
+
+URxvt.color0:  #201E24
+URxvt.color8:  #837C78
+URxvt.color1:  #2D2B30
+URxvt.color9:  #89827D
+URxvt.color2:  #3F3D40
+URxvt.color10: #A7A099
+URxvt.color3:  #413C3E
+URxvt.color11: #C2BEC1
+URxvt.color4:  #423E41
+URxvt.color12: #C3BCB2
+URxvt.color5:  #4E4A4B
+URxvt.color13: #CBC5BA
+URxvt.color6:  #6E6765
+URxvt.color14: #E3DDD2
+URxvt.color7:  #837E81
+URxvt.color15: #EFE8DC

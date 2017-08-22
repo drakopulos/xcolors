@@ -1,0 +1,42 @@
+! rc.cola
+URxvt.background:   #28231D
+URxvt.foreground:   #B8A882
+URxvt.cursorColor:  #B8A882
+
+URxvt.color0:       #28231D
+URxvt.color1:       #A4885F
+URxvt.color2:       #8D7038
+URxvt.color3:       #A89055
+URxvt.color4:       #907142
+URxvt.color5:       #A57341
+URxvt.color6:       #81572C
+URxvt.color7:       #B8A882
+URxvt.color8:       #C5B994
+URxvt.color9:       #A48E6D
+URxvt.color10:      #81572C
+URxvt.color11:      #A89361
+URxvt.color12:      #907955
+URxvt.color13:      #A57341
+URxvt.color14:      #836550
+URxvt.color15:      #C5B994
+
+! rc.cola
+*foreground:   #B8A882
+*background:   #28231D
+
+*color0:       #28231D
+*color1:       #A4885F
+*color2:       #8D7038
+*color3:       #A89055
+*color4:       #907142
+*color5:       #A57341
+*color6:       #81572C
+*color7:       #B8A882
+*color8:       #C5B994
+*color9:       #A48E6D
+*color10:      #81572C
+*color11:      #A89361
+*color12:      #907955
+*color13:      #A57341
+*color14:      #836550
+*color15:      #C5B994

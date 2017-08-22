@@ -1,0 +1,25 @@
+! dkeg 2013,2014 !
+  
+!!!! skateboard !!!!
+
+URxvt.background:        #252525
+!*foreground:       #999999
+!*foreground:       #7d7875
+URxvt.foreground:       #d3d3d3
+
+URxvt.color0: #121212
+URxvt.color1: #303030
+URxvt.color2: #4D4D4D
+URxvt.color3: #6E6E6E
+URxvt.color4: #909090
+URxvt.color5: #B0B0B0
+URxvt.color6: #D0D0D0
+URxvt.color7: #F7F7F7
+URxvt.color8: #121212
+URxvt.color9: #303030
+URxvt.color10: #4D4D4D
+URxvt.color11: #6E6E6E
+URxvt.color12: #909090
+URxvt.color13: #B0B0B0
+URxvt.color14: #D0D0D0
+URxvt.color15: #F7F7F7

@@ -1,0 +1,26 @@
+! dkeg 2013,2014 !
+  
+!!!! streetview !!!!
+
+!*background:#170f0d
+!*foreground:#746c48
+
+URxvt.background:#111111
+URxvt.foreground:#d3d3d3
+
+URxvt.color0: #05060F
+URxvt.color1: #0C1126
+URxvt.color2: #29272F
+URxvt.color3: #2C3547
+URxvt.color4: #464042
+URxvt.color5: #615D5D
+URxvt.color6: #7C7F7E
+URxvt.color7: #8C7566
+URxvt.color8: #975C45
+URxvt.color9: #9F8B75
+URxvt.color10: #A89F93
+URxvt.color11: #BDC1B9
+URxvt.color12: #C8A077
+URxvt.color13: #CBB59E
+URxvt.color14: #DECCB3
+URxvt.color15: #F2E6D8

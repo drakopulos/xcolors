@@ -1,0 +1,37 @@
+!!NumiX Darkest.
+!!BY WuX 
+
+URxvt.background: #282828
+URxvt.foreground: #A2A2A2
+
+!Black
+URxvt.color0:    #555555
+URxvt.color8:    #888888
+
+!Red
+URxvt.color1:    #d64937
+URxvt.color9:    #9C3528
+
+!Green
+URxvt.color2:    #86DF5D
+URxvt.color10:   #61BC3B
+
+!yellow
+URxvt.color3:    #FDD75A
+URxvt.color11:   #F3B43A
+
+!blue
+URxvt.color4:    #0F75BD
+URxvt.color12:   #0D68A8
+
+!Magenta
+URxvt.color5:    #9E5E83
+URxvt.color13:   #744560
+
+!Cyan
+URxvt.color6:    #37c3d6
+URxvt.color14:   #288e9c
+
+!White
+URxvt.color7:    #f9f9f9
+URxvt.color15:   #A2A2A2

@@ -1,0 +1,23 @@
+! bones 2014 !
+
+!!!! erosion !!!!
+
+URxvt.background: #181512
+URxvt.foreground: #bea492
+
+URxvt.color0: #332d29
+URxvt.color1: #8c644c
+URxvt.color2: #c4be90
+URxvt.color3: #bfba92
+URxvt.color4: #646a6d
+URxvt.color5: #6d6871
+URxvt.color6: #3b484a
+URxvt.color7: #504339
+URxvt.color8: #817267
+URxvt.color9: #9f7155
+URxvt.color10: #bec17e
+URxvt.color11: #fafac0
+URxvt.color12: #626e74
+URxvt.color13: #756f7b
+URxvt.color14: #444d4e
+URxvt.color15: #9a875f

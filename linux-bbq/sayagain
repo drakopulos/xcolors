@@ -1,0 +1,24 @@
+! dkeg 2013,2014 !
+  
+!!!! sayagain !!!!
+
+URxvt.background:#170f0d
+!*foreground:#746c48
+URxvt.foreground:#b9ae9e
+
+URxvt.color0: #3B2229
+URxvt.color1: #405156
+URxvt.color2: #4D2C30
+URxvt.color3: #4F3946
+URxvt.color4: #5F5253
+URxvt.color5: #608E89
+URxvt.color6: #643537
+URxvt.color7: #6D8773
+URxvt.color8: #9A6054
+URxvt.color9: #9D8F75
+URxvt.color10: #9E9E8E
+URxvt.color11: #B96057
+URxvt.color12: #B9B9B5
+URxvt.color13: #D09173
+URxvt.color14: #D5A88D
+URxvt.color15: #D7CAB9

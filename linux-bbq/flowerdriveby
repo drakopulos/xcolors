@@ -1,0 +1,23 @@
+! dkeg 2013,2014 !
+  
+!!!! flowerdriveby !!!!
+
+URxvt.background: #170F0D
+URxvt.foreground: #746C48
+
+URxvt.color0: #2E1429
+URxvt.color1: #2F1D27
+URxvt.color2: #472C37
+URxvt.color3: #4E5232
+URxvt.color4: #533446
+URxvt.color5: #675552
+URxvt.color6: #6D905D
+URxvt.color7: #8E7066
+URxvt.color8: #A09072
+URxvt.color9: #A65D24
+URxvt.color10: #A9D19C
+URxvt.color11: #B0A18C
+URxvt.color12: #CAB499
+URxvt.color13: #DCBB52
+URxvt.color14: #E5D3AE
+URxvt.color15: #FBF5DC

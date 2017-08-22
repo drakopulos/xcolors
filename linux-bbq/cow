@@ -1,0 +1,26 @@
+! dkeg 2013,2014 !
+  
+!!!! cow !!!!
+
+URxvt.background:       #1f1b18
+URxvt.foreground:       #b9ae9e
+
+!*background:       #170F0D
+!*foreground:       #746C48
+
+URxvt.color0: #16140F
+URxvt.color1: #453C27
+URxvt.color2: #5B4F35
+URxvt.color3: #716853
+URxvt.color4: #7C8264
+URxvt.color5: #857A61
+URxvt.color6: #866A34
+URxvt.color7: #918B71
+URxvt.color8: #99906D
+URxvt.color9: #9D9988
+URxvt.color10: #A68E50
+URxvt.color11: #ACA795
+URxvt.color12: #B7B5AA
+URxvt.color13: #BFBFB6
+URxvt.color14: #C4C4BA
+URxvt.color15: #E8EAE9

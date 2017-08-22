@@ -1,0 +1,23 @@
+! dkeg 2013,2014 !
+  
+!!!! sunlight !!!!
+
+URxvt.background: #170F0D
+URxvt.foreground: #746C48
+
+URxvt.color0: #0B0601
+URxvt.color1: #2C1605
+URxvt.color2: #3D210B
+URxvt.color3: #421E05
+URxvt.color4: #4F2709
+URxvt.color5: #6E350B
+URxvt.color6: #7A4217
+URxvt.color7: #853D0A
+URxvt.color8: #904711
+URxvt.color9: #9C6F4A
+URxvt.color10: #AE5210
+URxvt.color11: #E26B14
+URxvt.color12: #FAF7A2
+URxvt.color13: #FDF24C
+URxvt.color14: #FE9D1C
+URxvt.color15: #FEE42A

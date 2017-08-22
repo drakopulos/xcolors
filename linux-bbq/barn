@@ -1,0 +1,22 @@
+! dkeg 2014
+! barn
+
+URxvt.background:#131313
+URxvt.foreground:#abacae
+
+URxvt.color0: #222222
+URxvt.color1: #54342a
+URxvt.color2: #3e3329
+URxvt.color3: #332F2E
+URxvt.color4: #3A3E45
+URxvt.color5: #443B37
+URxvt.color6: #a4a19d
+URxvt.color7: #807c75
+URxvt.color8: #222222
+URxvt.color9: #54342a
+URxvt.color10: #3e3329
+URxvt.color11: #332f2e
+URxvt.color12: #3a3e45
+URxvt.color13: #443b37
+URxvt.color14: #a4a19d
+URxvt.color15: #807c75

@@ -1,0 +1,22 @@
+! dkeg 2014
+! blend
+
+URxvt.background:   #121212
+URxvt.foreground:   #abacae
+
+URxvt.color0:       #2a2a2a
+URxvt.color1:       #4c3333
+URxvt.color2:       #959c4f
+URxvt.color3:       #976c4e
+URxvt.color4:       #3d5a72
+URxvt.color5:       #978a9b
+URxvt.color6:       #4a5e5b
+URxvt.color7:       #a1a7ad
+URxvt.color8:       #3a3a3a
+URxvt.color9:       #8d4d4d
+URxvt.color10:      #b6bd6e
+URxvt.color11:      #bc9f67
+URxvt.color12:      #7a9dbc
+URxvt.color13:      #ae9eb3
+URxvt.color14:      #80a09b
+URxvt.color15:      #c7cbcf

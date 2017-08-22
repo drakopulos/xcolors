@@ -1,0 +1,33 @@
+!!! franksinistra 2014
+
+!!! Warm !!!
+URxvt.background: #0f0e0f
+URxvt.foreground: #9a875f
+
+!black
+URxvt.color0:    #141314
+URxvt.color8:    #29231e
+!red
+URxvt.color1:    #704232
+URxvt.color9:    #916255
+!green
+URxvt.color2:    #665534
+URxvt.color10:   #85785e
+!yellow
+URxvt.color3:    #996c43
+!*color3:    #8a733c
+URxvt.color11:   #b58d65
+!blue
+URxvt.color4:    #717d4c
+!*color4:    #5c6347
+URxvt.color12:   #899959
+!magenta
+URxvt.color5:    #5c4a3a
+URxvt.color13:   #755e4a
+!cyan
+!*color6:    #8a733c
+URxvt.color6:    #544838
+URxvt.color14:   #665744
+!white
+URxvt.color7:    #b89c63
+URxvt.color15:   #998043

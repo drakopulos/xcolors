@@ -1,0 +1,23 @@
+! dkeg 2013,2014 !
+  
+!!!! stormed !!!!
+
+URxvt.background:#1f1b18
+URxvt.foreground:#b9ae9e
+
+URxvt.color0: #534A39
+URxvt.color1: #746957
+URxvt.color2: #87785E
+URxvt.color3: #877A66
+URxvt.color4: #978A75
+URxvt.color5: #A79A86
+URxvt.color6: #A99676
+URxvt.color7: #B5A894
+URxvt.color8: #B8AB9A
+URxvt.color9: #C6B9A7
+URxvt.color10: #C7AA7B
+URxvt.color11: #C9B492
+URxvt.color12: #D4C5B0
+URxvt.color13: #E9D5B4
+URxvt.color14: #EBD5AE
+URxvt.color15: #FBEDCB

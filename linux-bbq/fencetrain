@@ -1,0 +1,26 @@
+! dkeg 2013,2014 !
+  
+!!!! fencetrain !!!!
+
+!*background:#170f0d
+!*foreground:#746c48
+
+URxvt.background:#111111
+URxvt.foreground:#d3d3d3
+
+URxvt.color0: #18152C
+URxvt.color1: #20172A
+URxvt.color2: #2E243A
+URxvt.color3: #382C43
+URxvt.color4: #47263B
+URxvt.color5: #4B384A
+URxvt.color6: #683A4A
+URxvt.color7: #68525E
+URxvt.color8: #8B7173
+URxvt.color9: #8D7C82
+URxvt.color10: #A28A79
+URxvt.color11: #A4988F
+URxvt.color12: #C5B9A5
+URxvt.color13: #CECAB8
+URxvt.color14: #DEDBCA
+URxvt.color15: #E5E2D4

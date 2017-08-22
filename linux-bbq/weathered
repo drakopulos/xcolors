@@ -1,0 +1,23 @@
+! dkeg 2013,2014 !
+  
+!!!! weathered !!!!
+
+URxvt.background: #170F0D
+URxvt.foreground: #746C48
+
+URxvt.color0: #14091E
+URxvt.color1: #1E1320
+URxvt.color2: #2B1B23
+URxvt.color3: #362A27
+URxvt.color4: #4C352B
+URxvt.color5: #58452E
+URxvt.color6: #68372D
+URxvt.color7: #6D5232
+URxvt.color8: #7A5C40
+URxvt.color9: #7C6236
+URxvt.color10: #8B5236
+URxvt.color11: #8B6839
+URxvt.color12: #AA653C
+URxvt.color13: #B46E42
+URxvt.color14: #DA9A55
+URxvt.color15: #EACA86

@@ -1,0 +1,23 @@
+! dkeg 2014 ! 
+
+!!!! yellowbeak !!!!
+
+URxvt.background:#111111
+URxvt.foreground:#d3d3d3
+
+URxvt.color0: #0B0B0B
+URxvt.color1: #262516
+URxvt.color2: #303030
+URxvt.color3: #4C4B31
+URxvt.color4: #4F4F4F
+URxvt.color5: #666658
+URxvt.color6: #6E6E6E
+URxvt.color7: #7F796A
+URxvt.color8: #8E8E8E
+URxvt.color9: #A1A19E
+URxvt.color10: #ACA05A
+URxvt.color11: #B0B0B0
+URxvt.color12: #CECECE
+URxvt.color13: #D1C9AA
+URxvt.color14: #E3E0DB
+URxvt.color15: #E7E7E7

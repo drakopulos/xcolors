@@ -1,0 +1,28 @@
+! franksinistra !
+!!! color ulcerate vermis !!!!
+URxvt.foreground: #d1bdb8
+URxvt.background: #231e1d
+! black
+URxvt.color0:  #423a3a
+URxvt.color8:  #231e1d
+! red
+URxvt.color1:  #8c635a
+URxvt.color9:  #997a7e
+! green
+URxvt.color2:  #c4c195
+URxvt.color10: #c4cc99
+! yellow
+URxvt.color3:  #bfa599
+URxvt.color11: #e6cfca
+! blue
+URxvt.color4:  #a296b0
+URxvt.color12: #a796b0
+! magenta
+URxvt.color5:  #71686f
+URxvt.color13: #998d98
+! cyan
+URxvt.color6:  #5c4646
+URxvt.color14: #878135
+! white
+URxvt.color7:  #bf988f
+URxvt.color15: #e4cab9

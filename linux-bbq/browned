@@ -1,0 +1,23 @@
+  
+!!!! browned !!!!
+
+URxvt.background: #1f1b18
+URxvt.foreground: #b9ae9e
+
+URxvt.color0: #332d29
+URxvt.color1: #9a7474
+URxvt.color2: #afbf83
+URxvt.color3: #efaf63
+URxvt.color4: #64657b
+URxvt.color5: #7d6b5d
+URxvt.color6: #75715e
+URxvt.color7: #f9cda2
+URxvt.color8: #817267
+URxvt.color9: #ea8484
+URxvt.color10: #b8c596
+URxvt.color11: #e0b37d
+URxvt.color12: #74758d
+URxvt.color13: #c5b3a6
+URxvt.color14: #82827d
+URxvt.color15: #fff0d9
+

@@ -1,0 +1,23 @@
+! dkeg 2013,2014 !
+  
+!!!! oxide !!!!
+
+URxvt.background: #170F0D
+URxvt.foreground: #746C48
+
+URxvt.color0: #2E1A1F
+URxvt.color1: #4E311F
+URxvt.color2: #4F342C
+URxvt.color3: #573843
+URxvt.color4: #644B31
+URxvt.color5: #6E5234
+URxvt.color6: #765B45
+URxvt.color7: #827F68
+URxvt.color8: #8A693A
+URxvt.color9: #91754D
+URxvt.color10: #9C6B4A
+URxvt.color11: #9C8258
+URxvt.color12: #AA8C5D
+URxvt.color13: #AB6544
+URxvt.color14: #C8AA76
+URxvt.color15: #D6BC8A

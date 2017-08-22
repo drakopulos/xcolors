@@ -1,0 +1,23 @@
+! dkeg 2013,2014 !
+  
+!!!! thestare !!!!
+
+URxvt.background:#170f0d
+URxvt.foreground:#746c48
+
+URxvt.color0: #1E1F20
+URxvt.color1: #474B3E
+URxvt.color2: #5C7789
+URxvt.color3: #618A93
+URxvt.color4: #62625E
+URxvt.color5: #728870
+URxvt.color6: #7CA6C2
+URxvt.color7: #807F84
+URxvt.color8: #8C6B59
+URxvt.color9: #8E776A
+URxvt.color10: #A28777
+URxvt.color11: #A4A29D
+URxvt.color12: #B5C5C7
+URxvt.color13: #C59D7A
+URxvt.color14: #CDB3A2
+URxvt.color15: #DBDAD8

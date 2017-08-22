@@ -1,0 +1,23 @@
+! dkeg 2013,2014 !
+  
+!!!! canvasedpastel !!!!
+
+URxvt.background: #170F0D
+URxvt.foreground: #746C48
+
+URxvt.color0: #26251C
+URxvt.color1: #323027
+URxvt.color2: #3D4339
+URxvt.color3: #443B2C
+URxvt.color4: #534D35
+URxvt.color5: #646756
+URxvt.color6: #7B8574
+URxvt.color7: #837B61
+URxvt.color8: #999F91
+URxvt.color9: #9B9773
+URxvt.color10: #B2B08C
+URxvt.color11: #C4BB8C
+URxvt.color12: #C4B67A
+URxvt.color13: #CFC995
+URxvt.color14: #D3D4B6
+URxvt.color15: #D6D3AC

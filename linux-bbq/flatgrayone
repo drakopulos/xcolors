@@ -1,0 +1,24 @@
+  
+!!! flatgrayone !!!
+
+URxvt.background:    #CECECE
+!*background:	#ffffff
+URxvt.foreground:    #000000
+
+!Black
+URxvt.color0:  #000000
+URxvt.color1:  #294377
+URxvt.color2:  #9278ab
+URxvt.color3:  #a86c73
+URxvt.color4:  #51365c
+URxvt.color5:  #6b73b8
+URxvt.color6:  #386ecb
+URxvt.color7:  #666
+URxvt.color8:  #424242
+URxvt.color9:  #566fb4
+URxvt.color10: #a08ba0
+URxvt.color11: #d0917f
+URxvt.color12: #424357
+URxvt.color13: #9296b0
+URxvt.color14: #6a82a8
+URxvt.color15: #ffffff

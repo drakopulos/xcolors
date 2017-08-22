@@ -1,0 +1,23 @@
+! dkeg 2013,2014 !
+  
+!!!! orangeabstract !!!!
+
+URxvt.background:#111111
+URxvt.foreground:#d3d3d3
+
+URxvt.color0: #017FA7
+URxvt.color1: #0382A9
+URxvt.color2: #2E2C30
+URxvt.color3: #4B494E
+URxvt.color4: #677B85
+URxvt.color5: #7BA0A9
+URxvt.color6: #7B9EA8
+URxvt.color7: #952E07
+URxvt.color8: #B13306
+URxvt.color9: #C45F3C
+URxvt.color10: #CA3A06
+URxvt.color11: #D8440A
+URxvt.color12: #E5FC71
+URxvt.color13: #E83E04
+URxvt.color14: #F0EFF0
+URxvt.color15: #F14506

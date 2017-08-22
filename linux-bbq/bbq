@@ -1,0 +1,26 @@
+! machinebacon 2014
+! photo for palette courtesy of
+! photonucleon
+
+!!! bbq !!!
+
+URxvt.background:#1a1a1a
+URxvt.foreground:#c7874b
+
+URxvt.color0: #020101
+URxvt.color1: #2E0501
+URxvt.color2: #3E2016
+URxvt.color3: #4E1001
+URxvt.color4: #5B2207
+URxvt.color5: #691B01
+URxvt.color6: #732605
+URxvt.color7: #7D4022
+URxvt.color8: #832002
+URxvt.color9: #8E310A
+URxvt.color10: #A63B0E
+URxvt.color11: #A84C1C
+URxvt.color12: #B24716
+URxvt.color13: #CC5C23
+URxvt.color14: #DA7640
+URxvt.color15: #F3A45B
+

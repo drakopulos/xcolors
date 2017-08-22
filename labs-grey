@@ -1,0 +1,43 @@
+! Ghost
+URxvt.background:   #737260
+URxvt.foreground:   #eae5ca
+URxvt.cursorColor:  #eae5ca
+
+URxvt.color0:       #22221c
+URxvt.color1:       #45453a
+URxvt.color2:       #565649
+URxvt.color3:       #a09e84
+URxvt.color4:       #303028
+URxvt.color5:       #d5d1ae
+URxvt.color6:       #dedab6
+URxvt.color7:       #e0deba
+URxvt.color8:       #303028
+URxvt.color9:       #48483d
+URxvt.color10:      #5c5c4e
+URxvt.color11:      #b8b597
+URxvt.color12:      #cecaa8
+URxvt.color13:      #dedab6
+URxvt.color14:      #ddd9b5
+URxvt.color15:      #e3e1bd
+
+! Ghost
+*background:   #737260
+*foreground:   #eae5ca
+*cursorColor:  #eae5ca
+
+*color0:       #22221c
+*color1:       #45453a
+*color2:       #565649
+*color3:       #a09e84
+*color4:       #303028
+*color5:       #d5d1ae
+*color6:       #dedab6
+*color7:       #e0deba
+*color8:       #303028
+*color9:       #48483d
+*color10:      #5c5c4e
+*color11:      #b8b597
+*color12:      #cecaa8
+*color13:      #dedab6
+*color14:      #ddd9b5
+*color15:      #e3e1bd

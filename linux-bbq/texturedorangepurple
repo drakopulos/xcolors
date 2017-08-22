@@ -1,0 +1,23 @@
+!dkeg,2014
+
+!!!! texturedorangepurple !!!!
+
+URxvt.background:#171717
+URxvt.foreground:#d3d3d3
+
+URxvt.color0: #362346
+URxvt.color1: #5E3B58
+URxvt.color2: #A36A6D
+URxvt.color3: #A47783
+URxvt.color4: #B3958A
+URxvt.color5: #B58D7A
+URxvt.color6: #BDC2A2
+URxvt.color7: #C47A68
+URxvt.color8: #CF8E72
+URxvt.color9: #D7B191
+URxvt.color10: #E2AB7A
+URxvt.color11: #E9D3B0
+URxvt.color12: #ECDBAA
+URxvt.color13: #F0CD93
+URxvt.color14: #F0E7D4
+URxvt.color15: #F2E8D3

@@ -1,0 +1,23 @@
+  
+!!!! RED !!!!
+
+URxvt.background:      #1a1a1a 
+URxvt.foreground:       #d3d3d3
+!*foreground:       #ffffff
+
+URxvt.color0: #303030
+URxvt.color1: #f2361e
+URxvt.color2: #D7D7D7
+URxvt.color3: #666666
+URxvt.color4: #7d7875
+URxvt.color5: #C3143B
+URxvt.color6: #D4D4D4
+URxvt.color7: #ebebeb
+URxvt.color8: #474747
+URxvt.color9: #fa390f
+URxvt.color10: #E6E6E6
+URxvt.color11: #808080
+URxvt.color12: #ebebeb
+URxvt.color13: #E82752
+URxvt.color14: #EDEDED
+URxvt.color15: #cccccc

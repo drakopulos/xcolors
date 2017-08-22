@@ -1,0 +1,21 @@
+!!! sky
+
+URxvt.background: #000000
+URxvt.foreground: #f9f9f9
+
+URxvt.color0: #030A04
+URxvt.color1: #182E14
+URxvt.color2: #2F4D19
+URxvt.color3: #305064
+URxvt.color4: #34648A
+URxvt.color5: #395335
+URxvt.color6: #51696C
+URxvt.color7: #5C96B5
+URxvt.color8: #5D7887
+URxvt.color9: #6F886A
+URxvt.color10: #718B93
+URxvt.color11: #7595A4
+URxvt.color12: #8A9D71
+URxvt.color13: #8EA7AB
+URxvt.color14: #B1CACE
+URxvt.color15: #C1D7D7

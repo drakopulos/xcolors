@@ -1,0 +1,23 @@
+! dkeg 2013,2014 !
+  
+!!!! evergreensnow !!!!
+
+URxvt.background:#170f0d
+URxvt.foreground:#746c48
+
+URxvt.color0: #2C1C20
+URxvt.color1: #322A31
+URxvt.color2: #373945
+URxvt.color3: #42383E
+URxvt.color4: #563A48
+URxvt.color5: #5B555C
+URxvt.color6: #726E6D
+URxvt.color7: #748F8A
+URxvt.color8: #79817B
+URxvt.color9: #866F76
+URxvt.color10: #89897A
+URxvt.color11: #A4A493
+URxvt.color12: #C2BEA4
+URxvt.color13: #D3C9AC
+URxvt.color14: #EBD6B8
+URxvt.color15: #F0E2C7

@@ -1,0 +1,23 @@
+! dkeg 2013,2014 !
+  
+!!!! look !!!!
+
+URxvt.background:#170f0d
+URxvt.foreground:#746c48
+
+URxvt.color0: #422D18
+URxvt.color1: #4E3428
+URxvt.color2: #4F3727
+URxvt.color3: #7A436B
+URxvt.color4: #88745E
+URxvt.color5: #A09071
+URxvt.color6: #B6A78A
+URxvt.color7: #CABBA3
+URxvt.color8: #CAB57B
+URxvt.color9: #D0BB84
+URxvt.color10: #D7C693
+URxvt.color11: #DDCFA4
+URxvt.color12: #E5D9B4
+URxvt.color13: #E9DFC1
+URxvt.color14: #E9E0BD
+URxvt.color15: #EDE4C6

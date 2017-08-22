@@ -1,0 +1,23 @@
+! Launfal, 2014
+
+!!!! Sandstorm !!!!
+
+URxvt.background: #060201
+URxvt.foreground:   #cba15a
+
+URxvt.color0: #060201
+URxvt.color1: #2D1002
+URxvt.color2: #36270A
+URxvt.color3: #503104
+URxvt.color4: #592306
+URxvt.color5: #67644D
+URxvt.color6: #695322
+URxvt.color7: #6E4D14
+URxvt.color8: #7C856A
+URxvt.color9: #8E6E32
+URxvt.color10: #955A22
+URxvt.color11: #967848
+URxvt.color12: #A7925D
+URxvt.color13: #AA4E1B
+URxvt.color14: #CBA15A
+URxvt.color15: #DACBA4

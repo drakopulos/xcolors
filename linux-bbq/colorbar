@@ -1,0 +1,24 @@
+! dkeg 2014 !
+
+!!!! colorbar !!!!
+
+!*background:#000000
+URxvt.background:#111111
+URxvt.foreground:#d3d3d3
+
+URxvt.color0: #002596
+URxvt.color1: #00AED9
+URxvt.color2: #00AF4D
+URxvt.color3: #0FCBBC
+URxvt.color4: #555555
+URxvt.color5: #34B6E5
+URxvt.color6: #53DB3F
+URxvt.color7: #7C5CCB
+URxvt.color8: #CC092F
+URxvt.color9: #D80073
+URxvt.color10: #FF17A3
+URxvt.color11: #FF535B
+URxvt.color12: #FF993A
+URxvt.color13: #FFE81A
+URxvt.color14: #716800
+URxvt.color15: #FFFFFF 

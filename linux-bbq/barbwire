@@ -1,0 +1,23 @@
+! dkeg 2013,2014 !
+
+!!!! barbwire !!!!
+
+URxvt.background:#170f0d
+URxvt.foreground:#746c48
+
+URxvt.color0: #514624
+URxvt.color1: #625327
+URxvt.color2: #766A35
+URxvt.color3: #7E8141
+URxvt.color4: #877339
+URxvt.color5: #8C7947
+URxvt.color6: #95894E
+URxvt.color7: #A99355
+URxvt.color8: #B0A355
+URxvt.color9: #B2A269
+URxvt.color10: #C5A95B
+URxvt.color11: #C9B274
+URxvt.color12: #CDBA87
+URxvt.color13: #D3CCA7
+URxvt.color14: #D8C790
+URxvt.color15: #E7D7A4

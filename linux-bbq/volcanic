@@ -1,0 +1,23 @@
+! dkeg 2014 !
+
+!!!! <volcanic> !!!!
+
+URxvt.background:#171717
+URxvt.foreground:#d3d3d3
+
+URxvt.color0: #1F2641
+URxvt.color1: #22192C
+URxvt.color2: #342736
+URxvt.color3: #373349
+URxvt.color4: #474352
+URxvt.color5: #4C2D39
+URxvt.color6: #4E3748
+URxvt.color7: #544755
+URxvt.color8: #685B66
+URxvt.color9: #6A3039
+URxvt.color10: #6C3946
+URxvt.color11: #6D4C53
+URxvt.color12: #945D5B
+URxvt.color13: #9D413D
+URxvt.color14: #AF8A72
+URxvt.color15: #B29E86

@@ -1,0 +1,21 @@
+!!! calligraphy
+
+URxvt.background: #000000
+URxvt.foreground: #f9f9f9
+
+URxvt.color0: #1E0D0B
+URxvt.color1: #392E2B
+URxvt.color2: #512925
+URxvt.color3: #55433C
+URxvt.color4: #675A52
+URxvt.color5: #A1372F
+URxvt.color6: #A68E75
+URxvt.color7: #B9748A
+URxvt.color8: #D2BCAE
+URxvt.color9: #D52D2C
+URxvt.color10: #D75B4E
+URxvt.color11: #EC3737
+URxvt.color12: #EC4C3B
+URxvt.color13: #FB9A58
+URxvt.color14: #FC5144
+URxvt.color15: #FC6C4C

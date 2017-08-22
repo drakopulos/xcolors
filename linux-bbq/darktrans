@@ -1,0 +1,23 @@
+  
+!!!! darktrans !!!!
+
+!*background: #1a1a1a
+URxvt.background: #111111
+URxvt.foreground: #c0c0c0
+
+URxvt.color0: #121212
+URxvt.color1: #a35b66
+URxvt.color2: #99ab6f
+URxvt.color3: #ca9733
+URxvt.color4: #495d6e
+URxvt.color5: #825969
+URxvt.color6: #839191
+URxvt.color7: #e0e0e0
+URxvt.color8: #2e3436
+URxvt.color9: #ab6b74
+URxvt.color10: #acb972
+URxvt.color11: #ccaa69
+URxvt.color12: #687987
+URxvt.color13: #977381
+URxvt.color14: #98a4a4
+color15: #e5e5e5

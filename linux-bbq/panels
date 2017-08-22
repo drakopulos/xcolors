@@ -1,0 +1,23 @@
+! dkeg 2013,2014 !
+  
+!!!! panels !!!!
+
+URxvt.background:#111111
+URxvt.foreground:#d3d3d3
+
+URxvt.color0: #191927
+URxvt.color1: #282F5E
+URxvt.color2: #2B4593
+URxvt.color3: #344276
+URxvt.color4: #4E3A4F
+URxvt.color5: #61372F
+URxvt.color6: #6B484C
+URxvt.color7: #744537
+URxvt.color8: #905749
+URxvt.color9: #94431C
+URxvt.color10: #9F582A
+URxvt.color11: #A38687
+URxvt.color12: #E1750F
+URxvt.color13: #EAAF25
+URxvt.color14: #FA8E08
+URxvt.color15: #FCA806

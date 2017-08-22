@@ -1,0 +1,22 @@
+! dkeg 2014
+! iron 
+
+URxvt.background: #0f0e0f
+URxvt.foreground: #abaeac
+
+URxvt.color0: #101010
+URxvt.color1: #252525
+URxvt.color2: #464646
+URxvt.color3: #525252
+URxvt.color4: #2a2a2a
+URxvt.color5: #b9b9b9
+URxvt.color6: #e3e3e3
+URxvt.color7: #f7f7f7
+URxvt.color8: #7c7c7c
+URxvt.color9: #999999
+URxvt.color10: #a0a0a0
+URxvt.color11: #8e8e8e
+URxvt.color12: #333333
+URxvt.color13: #686868
+URxvt.color14: #747474
+URxvt.color15: #5e5e5e

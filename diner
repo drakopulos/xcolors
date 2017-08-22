@@ -1,0 +1,40 @@
+! -- Author:  dkeg
+! -- Created: 2016
+! -- Title:   diner 
+URxvt.background:   #3f4a4b
+URxvt.foreground:   #aba599
+URxvt.color0:  #414d4e
+URxvt.color8:  #626f71
+URxvt.color1:  #9c7f5d
+URxvt.color9:  #9c7f5d
+URxvt.color2:  #8e958f
+URxvt.color10:  #8e958f
+URxvt.color3:  #b8af97
+URxvt.color11:  #b8af97
+URxvt.color4:  #828882
+URxvt.color12:  #828882
+URxvt.color5:  #bb9a7f
+URxvt.color13:  #bb9a7f
+URxvt.color6:  #9daba2
+URxvt.color14:  #9daba2
+URxvt.color7:  #aba599
+URxvt.color15:  #aba599
+
+*background:   #3f4a4b
+*foreground:   #aba599
+*color0:  #414d4e
+*color8:  #626f71
+*color1:  #9c7f5d
+*color9:  #9c7f5d
+*color2:  #8e958f
+*color10:  #8e958f
+*color3:  #b8af97
+*color12:  #b8af97
+*color4:  #828882
+*color12:  #828882
+*color5:  #bb9a7f
+*color13:  #bb9a7f
+*color6:  #9daba2
+*color14:  #9daba2
+*color7:  #aba599
+*color15:  #aba599

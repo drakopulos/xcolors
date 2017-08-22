@@ -1,0 +1,26 @@
+!! fishy !!
+
+! pidsley 2014
+! i have no idea where this came from
+! i swear it just appeared on my machine one day
+
+URxvt.background:       #000000
+URxvt.foreground:       #EEEEEE
+
+URxvt.color0: #1D3158
+URxvt.color1: #304B6D
+URxvt.color2: #355D8F
+URxvt.color3: #372B25
+URxvt.color4: #448CAA
+URxvt.color5: #526270
+URxvt.color6: #537190
+URxvt.color7: #537AA7
+URxvt.color8: #5A85B1
+URxvt.color9: #627992
+URxvt.color10: #6B8EB3
+URxvt.color11: #6B8799
+URxvt.color12: #739BC5
+URxvt.color13: #90ABC5
+URxvt.color14: #AB402D
+URxvt.color15: #B29452
+

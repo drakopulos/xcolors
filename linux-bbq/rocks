@@ -1,0 +1,26 @@
+! dkeg 2013,2014 !
+  
+!!!! rocks !!!!
+
+URxvt.background:#1f1b18
+URxvt.foreground:#b9ae9e
+
+!*background:#170f0d
+!*foreground:#746c48
+
+URxvt.color0: #251B27
+URxvt.color1: #4B3637
+URxvt.color2: #523F40
+URxvt.color3: #675455
+URxvt.color4: #6D5552
+URxvt.color5: #88573B
+URxvt.color6: #8C7C83
+URxvt.color7: #8F746D
+URxvt.color8: #906A59
+URxvt.color9: #9C8379
+URxvt.color10: #A19696
+URxvt.color11: #A98A77
+URxvt.color12: #AA958C
+URxvt.color13: #AEA9A9
+URxvt.color14: #C49F7A
+URxvt.color15: #D0CFC1

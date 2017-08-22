@@ -1,0 +1,23 @@
+! dkeg 2013,2014 !
+  
+!!!! musictree !!!!
+
+URxvt.background:       #170F0D
+URxvt.foreground:       #746C48
+
+URxvt.color0:           #070301
+URxvt.color1:           #372815
+URxvt.color2:           #572500
+URxvt.color3:           #701D04
+URxvt.color4:           #8F3311
+URxvt.color5:           #A33316
+URxvt.color6:           #D18C2B
+URxvt.color7:           #E69E5C
+URxvt.color8:           #361701
+URxvt.color9:           #461D01
+URxvt.color10:          #6D2B07
+URxvt.color11:          #774716
+URxvt.color12:          #A1581C
+URxvt.color13:          #C26E40
+URxvt.color14:          #D7562B
+URxvt.color15:          #FBD58F

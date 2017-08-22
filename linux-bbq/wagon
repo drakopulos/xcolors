@@ -1,0 +1,23 @@
+! dkeg 2013,2014 !
+  
+!!!! wagon !!!!
+
+URxvt.background: #170F0D
+URxvt.foreground: #746C48
+
+URxvt.color0: #1C1C19
+URxvt.color1: #2E2C29
+URxvt.color2: #46413B
+URxvt.color3: #5A5F55
+URxvt.color4: #6F9558
+URxvt.color5: #737987
+URxvt.color6: #76978F
+URxvt.color7: #76B64C
+URxvt.color8: #95A39D
+URxvt.color9: #98A267
+URxvt.color10: #A76B5E
+URxvt.color11: #A7C4BF
+URxvt.color12: #C9AE6E
+URxvt.color13: #E3AE98
+URxvt.color14: #E4CAAE
+URxvt.color15: #E9D5CC

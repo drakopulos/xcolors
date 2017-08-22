@@ -1,0 +1,23 @@
+! dkeg 2013,2014 !
+  
+!!!! softblend !!!!
+
+URxvt.background:#170f0d
+URxvt.foreground:#746c48
+
+URxvt.color0: #11130D
+URxvt.color1: #1D231A
+URxvt.color2: #2D3424
+URxvt.color3: #2D1A08
+URxvt.color4: #302713
+URxvt.color5: #4E2C10
+URxvt.color6: #505A38
+URxvt.color7: #635128
+URxvt.color8: #673A15
+URxvt.color9: #7C874F
+URxvt.color10: #9B6327
+URxvt.color11: #A1A554
+URxvt.color12: #BD7C30
+URxvt.color13: #BFA549
+URxvt.color14: #CA9339
+URxvt.color15: #D2AF4A

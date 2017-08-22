@@ -1,0 +1,23 @@
+! dkeg 2013,2014 !
+
+!!!! autumnfence !!!!
+
+URxvt.background:       #170F0D
+URxvt.foreground:       #746C48
+
+URxvt.color0: #241C15
+URxvt.color1: #2E1910
+URxvt.color2: #502911
+URxvt.color3: #5B331D
+URxvt.color4: #644B31
+URxvt.color5: #6A574D
+URxvt.color6: #787E81
+URxvt.color7: #977054
+URxvt.color8: #9B5423
+URxvt.color9: #B09C8F
+URxvt.color10: #B98C60
+URxvt.color11: #CA682A
+URxvt.color12: #DEB291
+URxvt.color13: #E99B63
+URxvt.color14: #F4CEA7
+URxvt.color15: #FBF2E5

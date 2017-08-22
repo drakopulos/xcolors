@@ -1,0 +1,29 @@
+! franksinistra !
+!!! papyrus !!!
+
+URxvt.foreground: #d1c3b8
+URxvt.background: #2e2c28
+! black
+URxvt.color0:  #717370
+URxvt.color8:  #2e2c28
+! red
+URxvt.color1:  #8c735a
+URxvt.color9:  #998a7a
+! green
+URxvt.color2:  #aec495
+URxvt.color10: #b4cc99
+! yellow
+URxvt.color3:  #bfbb99
+URxvt.color11: #e6e3ca
+! blue
+URxvt.color4:  #88a1ba
+URxvt.color12: #88a1ba
+! magenta
+URxvt.color5:  #6d6871
+URxvt.color13: #948d99
+! cyan
+URxvt.color6:  #5c5346
+URxvt.color14: #7a8735
+! white
+URxvt.color7:  #c8b972
+URxvt.color15: #e4dd96

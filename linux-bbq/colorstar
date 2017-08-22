@@ -1,0 +1,23 @@
+! dkeg 2013,2014 !
+  
+!!!! colorstar !!!!
+
+URxvt.background:#111111
+URxvt.foreground:#d3d3d3
+
+URxvt.color0: #03010F
+URxvt.color1: #503b43
+URxvt.color2: #353B64
+URxvt.color3: #8c2424
+URxvt.color4: #6067AC
+URxvt.color5: #624D19
+URxvt.color6: #7C83C0
+URxvt.color7: #9A600F
+URxvt.color8: #AB9E9E
+URxvt.color9: #B28930
+URxvt.color10: #BBADA9
+URxvt.color11: #C37305
+URxvt.color12: #D0AE58
+URxvt.color13: #D7B559
+URxvt.color14: #F4E199
+URxvt.color15: #F6F4DF

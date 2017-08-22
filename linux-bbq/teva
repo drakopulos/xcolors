@@ -1,0 +1,23 @@
+! dkeg 2013,2014 !
+  
+!!!! teva !!!!
+
+URxvt.background: #170F0D
+URxvt.foreground: #746C48
+
+URxvt.color0: #191F31
+URxvt.color1: #282E39
+URxvt.color2: #303844
+URxvt.color3: #3B444A
+URxvt.color4: #3C4435
+URxvt.color5: #4E534F
+URxvt.color6: #5D5D35
+URxvt.color7: #66695D
+URxvt.color8: #706D56
+URxvt.color9: #8B7852
+URxvt.color10: #909581
+URxvt.color11: #91703A
+URxvt.color12: #948658
+URxvt.color13: #A19662
+URxvt.color14: #AD9152
+URxvt.color15: #C6A13F

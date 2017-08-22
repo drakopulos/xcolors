@@ -1,0 +1,23 @@
+! dkeg 2013,2014 !
+  
+!!!! streetlamps !!!!
+
+URxvt.background:#111111
+URxvt.foreground:#d3d3d3
+
+URxvt.color0: #0F0F0F
+URxvt.color1: #22201D
+URxvt.color2: #2F2F2F
+URxvt.color3: #43413C
+URxvt.color4: #4F4F4E
+URxvt.color5: #63625C
+URxvt.color6: #6F6F6D
+URxvt.color7: #877B6E
+URxvt.color8: #898579
+URxvt.color9: #90908D
+URxvt.color10: #A5A49A
+URxvt.color11: #AFAFA9
+URxvt.color12: #C7BAA4
+URxvt.color13: #CEC9B2
+URxvt.color14: #DAD9CF
+URxvt.color15: #E4C366

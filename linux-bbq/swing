@@ -1,0 +1,23 @@
+! dkeg 2013,2014 !
+  
+!!!! swing !!!!
+
+URxvt.background: #170F0D
+URxvt.foreground: #746C48
+
+URxvt.color0: #110C09
+URxvt.color1: #231C17
+URxvt.color2: #2C251B
+URxvt.color3: #352C23
+URxvt.color4: #5C4E34
+URxvt.color5: #605034
+URxvt.color6: #788543
+URxvt.color7: #8B764C
+URxvt.color8: #8D6338
+URxvt.color9: #AB9667
+URxvt.color10: #BCAB84
+URxvt.color11: #C6AB79
+URxvt.color12: #CCB889
+URxvt.color13: #E5D1A5
+URxvt.color14: #FAEDD0
+URxvt.color15: #FEFBF3

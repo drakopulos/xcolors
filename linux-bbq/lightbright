@@ -1,0 +1,37 @@
+! dkeg 2014
+! lightbright 
+
+URxvt.foreground: #0f0e0f
+URxvt.background: #bebebe
+
+! Black
+URxvt.color0: #0f161c
+URxvt.color8: #18222B
+
+! Red
+URxvt.color1: #3b0b0b
+URxvt.color9: #610b0b
+
+! Green
+URxvt.color2: #0b3b0b
+URxvt.color10: #0b610b
+
+! Yellow
+URxvt.color3: #3a2f0b
+URxvt.color11:#5f4c0b
+
+! Blue 
+URxvt.color4: #0a0a2a
+URxvt.color12: #0b3b2b
+
+! Magenta
+URxvt.color5: #4f334e
+URxvt.color13: #64307A
+
+! Cyan
+URxvt.color6: #0b3b2e
+URxvt.color14: #0b3b39
+
+! White 
+URxvt.color7: #2e2e2e
+URxvt.color15: #424242 
